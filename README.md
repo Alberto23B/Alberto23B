@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alberto23B
 - 👀 I’m interested in web development, music and everything that's orbit around
-- 🌱 I’m currently learning React, Redux, how to be a better Developer
+- 🌱 I’m currently learning React, Backend how to be a better Developer
 - 💞️ I’m looking to collaborate on projects, nothing in particular
 - 📫 How to reach me: biolchi.alberto23@gmail.com
 
